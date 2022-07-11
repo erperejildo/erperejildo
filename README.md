@@ -1,10 +1,14 @@
 ### Hola Mundo 👋
 
 # 💫 About Me:
-🔭 I'm currently working on Flutter Projects.
+🔭 I'm currently working on Flutter Projects
+
 🤝 I'm looking for Flutter Developer roles
+
 🌱 I'm currently exploring new technologies
+
 📫 How to reach me: Check the social links below
+
 ⚡ Fun fact: I like Chai more than Coffee.
 
 

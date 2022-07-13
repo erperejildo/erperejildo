@@ -9,8 +9,6 @@
 
 📫 How to reach me: Check the social links below
 
-⚡ Fun fact: I like Chai more than Coffee.
-
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-rodríguez-ramírez-6373a391) 

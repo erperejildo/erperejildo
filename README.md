@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I'm currently working on Flutter Projects
 
-🤝 I'm looking for Flutter Developer roles
+🤝 I'm looking for Flutter or Angular/React Developer roles
 
 🌱 I'm currently exploring new technologies
 

@@ -11,7 +11,7 @@
 
 [Check my CV](https://docs.google.com/document/d/1DrqobsRgiosTduWnGF9OLhC2TFsRpVO5Yc1YBz5Myuo/)
 
-[Check my portfolio]([https://github.com/erperejildo/portfolio](https://axislabs.eu/))
+[Check my portfolio](https://axislabs.eu/)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-rodríguez-ramírez-6373a391) 

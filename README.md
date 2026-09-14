@@ -26,7 +26,7 @@
 ## ⚡ Executive Summary
 
 - 💼 **16+ Years in Software Engineering**: Over a decade and a half delivering high-impact mobile, web, and distributed architectures across the UK, Germany, and Spain.
-- 📱 **Founder & App Business Owner**: Bootstrapped and independently operate **[Axis Labs](https://axislabs.eu/)**, a profitable mobile portfolio with commercial B2B & B2C products (**My Rents**, **Lucra**, **TimeTap**, **The Impostor**, and more).
+- 📱 **Founder & App Business Owner**: Bootstrapped and independently operate **[Axis Labs](https://axislabs.eu/)**, a profitable mobile portfolio with commercial B2B & B2C products (**AI Sabotage**, **My Rents**, **Lucra**, **TimeTap**, **The Impostor**, and more).
 - 🤖 **AI-First & Agentic Systems**: Architecting production LLM applications, multi-agent orchestration pipelines (Python), and AI MCP (Model Context Protocol) tooling to automate complex dev workflows, PR generation, and CI/CD operations.
 - 📦 **Open-Source Author & Contributor**: Creator and maintainer of Flutter community packages on [pub.dev](https://pub.dev/packages/rewarded_ad_counter), abstracting native mobile integrations and persistent ad monetization mechanics.
 - 🏛️ **Enterprise Track Record**: Delivered mission-critical systems for leading international organizations including **PlaytestCloud**, **YouGov**, **Premier Inn**, **The Telegraph**, **British Airways**, and **BBVA Bank**.
@@ -88,6 +88,7 @@
 
 | Project | Description | Stack | Links |
 |:---|:---|:---|:---:|
+| 🃏 **AI Sabotage** | Fast-paced cyberpunk strategic card game. Compete to build a functional AGI while deploying threats, locks, and malware to sabotage rivals. | `Flutter` `Supabase` `Signals` | [App Store](https://apps.apple.com/app/ai-sabotage-build-the-agi/id6806422984) · [Google Play](https://play.google.com/store/apps/details?id=com.axislabs.aisabotage) |
 | 🏢 **My Rents** | All-in-one property and lease management platform for landlords. Automates rent tracking, expense accounting, instant invoicing, and financial ROI analytics. | `Flutter` `Firebase` `Supabase` | [App Store](https://apps.apple.com/es/app/my-rents-property-manager-pro/id1537064606) · [Google Play](https://play.google.com/store/apps/details?id=com.drodriguez.my_rents) |
 | 💰 **Lucra** | Real-time cash flow & wealth tracker displaying income down to the second, subscription tracking, and investment dashboards. | `Flutter` `AdMob` `Analytics` | [App Store](https://apps.apple.com/es/app/profit/id1606458998) · [Google Play](https://play.google.com/store/apps/details?id=com.drodriguez.profits) |
 | 📦 **rewarded_ad_counter** | Published Flutter package providing stateful management and persistence for multiple AdMob rewarded ad views ("watch X ads to unlock"). | `Flutter` `Dart` `pub.dev` | [pub.dev](https://pub.dev/packages/rewarded_ad_counter) · [GitHub](https://github.com/erperejildo/rewarded_ad_counter) |
